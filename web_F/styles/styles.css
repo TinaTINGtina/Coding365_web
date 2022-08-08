@@ -1,0 +1,72 @@
+html{
+    background: rgb(255, 247, 236);
+}
+body{
+    width: 800px;
+    border: rgb(255, 225, 154) solid 5px;
+    margin: auto;
+}
+body p{
+    color: gray;
+}
+.header h1{
+    width: 730px;
+    margin: auto;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    border-bottom: 5px solid #ffe19a;
+}
+.content{
+    margin-left: 30px;
+}
+.fooder{
+    margin-left: 30px;
+    padding-bottom: 50px;
+}
+.content .Img_class{
+    width: 730px;
+}
+.content .Img_class img{
+    height: 150px;
+}
+.content .List_class{
+    width: 730px;
+    padding-bottom: 30px;
+    border-bottom: 5px solid #ffe19a;
+}
+.content .List_class ul{
+    color: gray;
+}
+.content .Table_class{
+    width: 730px;
+    padding-bottom: 30px;
+    border-bottom: 5px solid #ffe19a;
+}
+.content .Table_class table{
+    border-collapse:collapse;
+    background: white;
+    border:  solid rgb(255, 225, 154);
+}
+.content .Table_class table,td,th{
+    padding: 5px 10px;
+    border:  solid rgb(255, 225, 154);
+}
+.content .Table_class table th{
+    background: rgb(255, 241, 209);
+}
+.content .Form_class{
+    width: 730px;
+    padding-bottom: 30px;
+    border-bottom: 5px solid #ffe19a;
+}
+.content .Iframe_calss{
+    padding-bottom: 30px;
+}
+.fooder{
+    width: 730px;
+    border-top: 5px solid #ffe19a;
+}
+.fooder a{
+    color: gray;
+}
